@@ -18,7 +18,7 @@ A containerized Network Operations Center (NOC) monitoring and alerting environm
 ## Project Screenshots
 
 ### 1. Uptime Kuma NOC Dashboard
-![Uptime Kuma](uptime-kuma.png)
+![Uptime Kuma](ptime-kuma-dashboard.png)
 
 ### 2. Automated Incident Alerting (Discord Webhooks)
 ![Discord Alerts](discord-alerts.png)
@@ -27,4 +27,4 @@ A containerized Network Operations Center (NOC) monitoring and alerting environm
 ![Netdata](netdata.png)
 
 ### 4. Docker Containers Deployment (Linux Terminal)
-![Docker Terminal](docker-terminal.png)
+![Docker Terminal](docker-compose-terminal.png)
